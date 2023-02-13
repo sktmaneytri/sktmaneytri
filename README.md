@@ -17,7 +17,7 @@
 
 <div><p>My profile overview: </p></div>
 
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true)
+![Apurv's github stats](https://github.com/sktmaneytri?tab=stars)
 <br />
 <br />
 <br />
