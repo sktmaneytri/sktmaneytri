@@ -4,7 +4,7 @@
 ### Feel free to shoot me a DM in Instagram, Discord or email.
 
 #### Instagram: @sktmaneytri
-#### Discord: sktmaneytri
+#### Discord: sktmaneytri#1242
 #### Email: sktmaneytri@gmail.com
 
 
