@@ -15,10 +15,3 @@
 
 #### I love software development and working with great team-mates.
 
-<div><p>My profile overview: </p></div>
-
-![Apurv's github stats](https://github.com/sktmaneytri?tab=stars)
-<br />
-<br />
-<br />
-<details>
